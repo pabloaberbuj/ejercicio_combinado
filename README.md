@@ -22,7 +22,7 @@ Es un ejercicio combinado de cookicutter pylint y otros
 
 ```batch
 
-    $ pip install ejercicio_combinado
+    $ pip install git+https://github.com/pabloaberbuj/ejercicio_combinado.git
 ```
 
 This is the preferred method to install ejercicio_combinado, as it will always
